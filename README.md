@@ -1,2 +1,2 @@
 # drum-kit
-produces the sound of drum with keyboard keys and mouse coursor
+produces the sound of musical instruments with keyboard keys and mouse coursor
